@@ -1,3 +1,27 @@
+# Ciclo de implementação
+
+
+## Para concluir
+
+- diagrama de classes;
+- melhorias em todo o projeto;
+
+## Implementação
+
+- Jira -> ciclos de 07 dias;
+- task, story, epic, bug
+
+
+Epic > Story > (task == bug)
+
+Epic -> UC 006
+implementacao da GUI UC 006
+implementacao do CRUD Pessoa 
+implementacao do CRUD Produto
+
+
+
+
 # Análise de sistemas de software 2026
 
 ![Banner da disciplina](./assets/image.png)
