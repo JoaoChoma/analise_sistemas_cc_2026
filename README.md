@@ -15,9 +15,13 @@
 Epic > Story > (task == bug)
 
 Epic -> UC 006
-implementacao da GUI UC 006
-implementacao do CRUD Pessoa 
-implementacao do CRUD Produto
+1. implementacao da GUI UC 006
+2. implementacao do CRUD Pessoa 
+3. implementacao do CRUD Produto
+
+...
+
+47. implementacao da GUI do UC 006
 
 
 
