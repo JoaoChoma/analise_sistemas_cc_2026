@@ -1,5 +1,7 @@
-Eu Jose add o crud de professor
+# ENTREGAS até 30/11 às 15:21
 
+Projeto de 01 caso de uso;
+Projeto do desafio;
 
 
 # Ciclo de implementação
